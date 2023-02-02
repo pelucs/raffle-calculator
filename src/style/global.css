@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  @apply w-full min-h-screen bg-black;
+}
+
+*::-webkit-scrollbar{
+  @apply w-[7px];
+}
+
+*::-webkit-scrollbar-thumb{
+  @apply w-[7px] bg-zinc-800 rounded-md ;
+}
+
+*::-webkit-scrollbar-track{
+  @apply bg-transparent;
+}
