@@ -44,7 +44,7 @@ export default () => {
       <div className="mt-10 py-5 px-5 rounded w-full max-w-md bg-zinc-900 border border-zinc-800 
       flex flex-col items-center gap-3 transition-all">
         <strong className="text-zinc-100 ">
-          Sua meta de vendas de
+          Sua meta de vendas é
         </strong>
 
         <strong className="p-2 bg-black text-green-500 font-bold text-2xl rounded-md">
