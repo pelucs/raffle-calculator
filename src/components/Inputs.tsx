@@ -22,7 +22,7 @@ export default () => {
 
   return(
     <div className="flex flex-col px-5 gap-10 items-center">
-      <div className="flex items-center justify-center flex-wrap gap-5">
+      <div className="mt-10 flex items-center justify-center flex-wrap gap-5">
         <div className="flex flex-col items-center gap-3">
           <label className="text-lg text-zinc-100" htmlFor="premiumValue">
             Valor do prêmio
