@@ -16,7 +16,7 @@ export default () => {
           Calculadora de Rifas
         </strong>
 
-        <p className="text-zinc-400 text-xl mt-5">
+        <p className="text-zinc-400 text-xl mt-5 text-center">
           Preencha todos os dados corretamente
         </p>
       </div>
